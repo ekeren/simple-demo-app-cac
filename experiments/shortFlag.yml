@@ -1,0 +1,22 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/59cfdf301543253d0edbcb63
+type: experiment
+name: Feedback
+description: The send feedback feature
+stickinessProperty: group id
+flag: shortFlag
+platforms:
+  - name: iOS
+    conditions:
+      - group:
+          name: US.California.Users
+        value:
+          - percentage: 10
+            option: true
+      - version:
+          operator: semver-gte
+          semver: '1.0'
+        group:
+          name: QA
+        value: true
+    value: false
