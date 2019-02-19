@@ -1,5 +1,5 @@
 # This file was edited by rollout.io
-# URL: https://app.rollout.io/ex/59cfdf301543253d0edbcb63
+# URL: https://app.rollout.io/ex/5c6c0f532fa3577663765086
 type: experiment
 name: Feedback
 description: The send feedback feature
@@ -20,3 +20,4 @@ platforms:
           name: QA
         value: true
     value: false
+value: true
