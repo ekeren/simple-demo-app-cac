@@ -1,0 +1,10 @@
+type: target-group
+name: US.California.Users
+conditions:
+  - operator: in-array
+    property: group id
+    operand:
+      - '1212132'
+      - '3434'
+      - '342543425'
+      - '3234124'
