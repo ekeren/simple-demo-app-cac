@@ -1,0 +1,13 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5a502267fb63091448e42bca
+type: experiment
+name: background colors
+description: Different background color
+flag: backgroundColors
+availableValues:
+  - Red
+  - Green
+  - Blue
+platforms:
+  - name: iOS
+    value: []
