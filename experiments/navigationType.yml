@@ -1,0 +1,12 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/59cd15a8d2c77056b682e5a3
+type: experiment
+name: Navigation type
+description: New shorter navigation
+flag: navigationType
+availableValues:
+  - NormalNavigation
+  - NewNavigation
+platforms:
+  - name: iOS
+    value: []
