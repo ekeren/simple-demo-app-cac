@@ -10,4 +10,4 @@ availableValues:
   - Blue
 platforms:
   - name: iOS
-    value: []
+    value: Red
