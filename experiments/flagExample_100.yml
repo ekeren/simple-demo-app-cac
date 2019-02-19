@@ -1,0 +1,8 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5a92c8cfda6193145700b23d
+type: experiment
+name: flag example 100
+flag: flagExample_100
+platforms:
+  - name: iOS
+    value: false
