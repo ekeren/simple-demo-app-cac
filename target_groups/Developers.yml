@@ -1,0 +1,7 @@
+type: target-group
+name: Developers
+conditions:
+  - operator: in-array
+    property: group id
+    operand:
+      - adsdsa
