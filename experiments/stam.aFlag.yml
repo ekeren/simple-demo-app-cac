@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5c90049454e894658fe958f0
+type: experiment
+name: a flag
+flag: stam.aFlag
+value: false
