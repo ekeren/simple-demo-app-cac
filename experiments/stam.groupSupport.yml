@@ -3,4 +3,4 @@
 type: experiment
 name: group support
 flag: stam.groupSupport
-value: false
+value: true
