@@ -3,4 +3,4 @@
 type: experiment
 name: a flag
 flag: stam.aFlag
-value: false
+value: true
