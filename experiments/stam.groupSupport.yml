@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5c900ffbf99d28655b6358c3
+type: experiment
+name: group support
+flag: stam.groupSupport
+value: false
