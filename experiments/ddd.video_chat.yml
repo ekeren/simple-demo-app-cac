@@ -5,9 +5,15 @@ name: video chat
 flag: ddd.video_chat
 conditions:
   - property:
-      name: bullshit
+      name: b
       operator: in-array
       operand:
-        - nice
+        - bValue
+    value: true
+  - property:
+      name: a
+      operator: in-array
+      operand:
+        - aValue
     value: true
 value: false
