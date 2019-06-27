@@ -3,4 +3,4 @@
 type: experiment
 name: video chat
 flag: ddd.video_chat
-value: false
+value: true
