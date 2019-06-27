@@ -15,5 +15,4 @@ conditions:
       operator: in-array
       operand:
         - aValue
-    value: true
 value: false
