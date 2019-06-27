@@ -5,14 +5,14 @@ name: video chat
 flag: ddd.video_chat
 conditions:
   - property:
-      name: b
-      operator: in-array
-      operand:
-        - bValue
-  - property:
       name: a
       operator: in-array
       operand:
         - aValue
     value: true
+  - property:
+      name: b
+      operator: in-array
+      operand:
+        - bValue
 value: false
