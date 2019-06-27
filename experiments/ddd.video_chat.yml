@@ -3,4 +3,11 @@
 type: experiment
 name: video chat
 flag: ddd.video_chat
-value: true
+conditions:
+  - property:
+      name: bullshit
+      operator: in-array
+      operand:
+        - nice
+    value: true
+value: false
