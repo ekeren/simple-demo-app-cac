@@ -9,7 +9,6 @@ conditions:
       operator: in-array
       operand:
         - bValue
-    value: true
   - property:
       name: a
       operator: in-array
