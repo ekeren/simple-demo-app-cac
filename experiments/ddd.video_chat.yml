@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5d148ef5d3f8151d0ce2c74f
+type: experiment
+name: video chat
+flag: ddd.video_chat
+value: false
