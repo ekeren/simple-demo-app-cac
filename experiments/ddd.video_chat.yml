@@ -10,4 +10,4 @@ conditions:
       operand:
         - nice
     value: true
-value: false
+value: true
